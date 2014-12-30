@@ -14,3 +14,5 @@ http://www.google.com/design/spec/material-design/introduction.html
 <h3>UX</h3>
 
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
+
+https://www.mysliderule.com/learning-paths/user-experience-design/learn/?
