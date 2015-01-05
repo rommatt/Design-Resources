@@ -24,5 +24,3 @@ https://www.mysliderule.com/learning-paths/user-experience-design/learn/?
 http://webfieldmanual.com/index.php
 
 
-
-http://webfieldmanual.com/index.php
