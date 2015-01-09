@@ -23,4 +23,8 @@ https://www.mysliderule.com/learning-paths/user-experience-design/learn/?
 
 http://webfieldmanual.com/index.php
 
+<h3>Branding</h3>
+
+http://saijogeorge.com/brand-style-guide-examples/
+
 
