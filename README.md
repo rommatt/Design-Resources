@@ -27,4 +27,6 @@ http://webfieldmanual.com/index.php
 
 http://saijogeorge.com/brand-style-guide-examples/
 
+http://speckyboy.com/2015/01/15/inspirational-examples-ui-style-guides/
+
 
