@@ -25,6 +25,8 @@ http://www.goodui.org/
 
 http://webfieldmanual.com/index.php
 
+https://www.pinterest.com/timoa/
+
 <h3>Branding</h3>
 
 http://saijogeorge.com/brand-style-guide-examples/
