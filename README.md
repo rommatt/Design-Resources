@@ -19,6 +19,8 @@ http://wayfinder.is/c/User-Experience-and-Design-Process-for-Startups/530bf8bebe
 
 https://www.mysliderule.com/learning-paths/user-experience-design/learn/?
 
+http://www.goodui.org/
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
