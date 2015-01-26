@@ -29,6 +29,8 @@ http://webfieldmanual.com/index.php
 
 https://www.pinterest.com/timoa/
 
+http://www.ibm.com/design/language/index.shtml
+
 <h3>Branding</h3>
 
 http://saijogeorge.com/brand-style-guide-examples/
