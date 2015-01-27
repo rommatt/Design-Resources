@@ -23,6 +23,8 @@ http://www.goodui.org/
 
 http://www.invisionapp.com/
 
+https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
