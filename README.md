@@ -49,4 +49,8 @@ http://www.mobile-patterns.com/
 
 https://buildwithcraft.com/
 
+<h3>Site inspiration</h3>
+
+https://vivaldi.com
+
 
