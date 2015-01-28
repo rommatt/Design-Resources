@@ -39,6 +39,8 @@ http://www.unheap.com/
 
 http://www.smashingmagazine.com/2015/01/19/using-motion-for-ux-on-apps-and-websites/
 
+http://weblinc.github.io/jquery.smoothState.js/index.html
+
 <h3>Navigation</h3>
 
 http://www.unheap.com/section/drawer-responsive/
