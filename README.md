@@ -37,6 +37,8 @@ http://designspiration.net/
 
 http://www.unheap.com/
 
+http://www.smashingmagazine.com/2015/01/19/using-motion-for-ux-on-apps-and-websites/
+
 <h3>Navigation</h3>
 
 http://www.unheap.com/section/drawer-responsive/
