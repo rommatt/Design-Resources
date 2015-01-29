@@ -27,6 +27,8 @@ https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-desi
 
 http://baymard.com/blog/custom-vs-native-ui
 
+http://tech.gilt.com/post/92457288299/gilt-product-management-and-user-experience
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
