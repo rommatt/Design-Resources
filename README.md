@@ -43,6 +43,10 @@ http://weblinc.github.io/jquery.smoothState.js/index.html
 
 http://fian.my.id/marka/
 
+<h3>Icons</h3>
+
+https://github.com/SmileyJames/sassy-google-icons
+
 <h3>Navigation</h3>
 
 http://www.unheap.com/section/drawer-responsive/
