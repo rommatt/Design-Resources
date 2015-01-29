@@ -47,6 +47,8 @@ http://weblinc.github.io/jquery.smoothState.js/index.html
 
 http://fian.my.id/marka/
 
+http://fian.my.id/Waves/
+
 <h3>Icons</h3>
 
 https://github.com/SmileyJames/sassy-google-icons
