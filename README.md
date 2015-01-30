@@ -29,6 +29,8 @@ http://baymard.com/blog/custom-vs-native-ui
 
 http://tech.gilt.com/post/92457288299/gilt-product-management-and-user-experience
 
+http://www.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
