@@ -13,6 +13,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+http://writing.mariusz.cc/learn-ux-design/
+
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 
 http://wayfinder.is/c/User-Experience-and-Design-Process-for-Startups/530bf8bebe77d5152500013a
