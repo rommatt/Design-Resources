@@ -57,6 +57,10 @@ http://fian.my.id/Waves/
 
 https://github.com/SmileyJames/sassy-google-icons
 
+<h3>Fonts</h3>
+
+http://somadesign.ca/demos/better-google-fonts/
+
 <h3>Navigation</h3>
 
 http://www.unheap.com/section/drawer-responsive/
