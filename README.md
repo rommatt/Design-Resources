@@ -35,6 +35,8 @@ http://www.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverabl
 
 http://www.awwwards.com/which-way-is-the-concept-of-vertical-scrolling-headed-in-2015.html
 
+http://ustwo.com/blog/dude-wheres-my-car-a-conceptual-business-case-for-zipcar/
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
