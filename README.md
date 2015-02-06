@@ -27,6 +27,8 @@ http://www.invisionapp.com/
 
 http://patternlab.io/
 
+http://patternlab.io/resources.html
+
 https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e
 
 http://baymard.com/blog/custom-vs-native-ui
