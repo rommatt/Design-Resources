@@ -43,6 +43,8 @@ http://ustwo.com/blog/dude-wheres-my-car-a-conceptual-business-case-for-zipcar/
 
 http://alistapart.com/blog/post/style-guide-generator-roundup
 
+http://uxchecklist.github.io/
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
