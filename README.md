@@ -67,6 +67,8 @@ http://fian.my.id/marka/
 
 http://fian.my.id/Waves/
 
+http://www.webdesignrepo.com/
+
 <h3>Icons</h3>
 
 https://github.com/SmileyJames/sassy-google-icons
