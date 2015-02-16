@@ -99,7 +99,7 @@ http://www.mobile-patterns.com/
 
 https://buildwithcraft.com/
 
-<h3><LAMP stack</h3>
+<h3>LAMP stack</h3>
 
 https://box.scotch.io/
 
