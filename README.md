@@ -69,6 +69,8 @@ http://fian.my.id/Waves/
 
 http://www.webdesignrepo.com/
 
+https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/
+
 <h3>Icons</h3>
 
 https://github.com/SmileyJames/sassy-google-icons
