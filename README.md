@@ -101,6 +101,10 @@ http://www.mobile-patterns.com/
 
 https://buildwithcraft.com/
 
+<h3>Optimization</h3>
+
+http://www.smashingmagazine.com/2015/02/16/using-edge-side-includes-in-varnish/
+
 <h3>LAMP stack</h3>
 
 https://box.scotch.io/
