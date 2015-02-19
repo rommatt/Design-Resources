@@ -49,6 +49,8 @@ https://abass.co/blog/why-you-should-run-usability-testing-everything
 
 http://nform.com/cards/
 
+http://www.nngroup.com/articles/quantitative-studies-how-many-users/
+
 <h3>UI</h3>
 
 http://webfieldmanual.com/index.php
