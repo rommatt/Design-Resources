@@ -73,6 +73,10 @@ http://fian.my.id/Waves/
 
 http://www.webdesignrepo.com/
 
+<h3>Animation</h3>
+
+http://www.google.com/design/spec/animation
+
 https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/
 
 <h3>Icons</h3>
