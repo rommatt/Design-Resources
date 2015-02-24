@@ -131,4 +131,8 @@ http://www.yummly.com/
 
 https://contently.com/
 
+http://www.google.com/design
+
+http://www.hugeinc.com/
+
 
