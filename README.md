@@ -97,6 +97,8 @@ http://viget.com/inspire/color-contrast
 
 http://viget.com/inspire/add-colors-to-your-palette-with-color-mixing
 
+http://viget.com/inspire/shades-of-gray-yes-really
+
 <h3>Grids</h3>
 
 http://susy.oddbird.net/
