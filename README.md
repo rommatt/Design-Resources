@@ -95,6 +95,8 @@ http://www.unheap.com/section/drawer-responsive/
 
 http://viget.com/inspire/color-contrast
 
+http://viget.com/inspire/add-colors-to-your-palette-with-color-mixing
+
 <h3>Grids</h3>
 
 http://susy.oddbird.net/
