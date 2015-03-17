@@ -89,6 +89,8 @@ https://github.com/SmileyJames/sassy-google-icons
 
 http://somadesign.ca/demos/better-google-fonts/
 
+http://www.fonts.com/web-fonts/google?showGoogleFontsDialog
+
 <h3>Navigation</h3>
 
 http://www.unheap.com/section/drawer-responsive/
