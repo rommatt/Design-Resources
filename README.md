@@ -85,6 +85,8 @@ https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/
 
 https://github.com/SmileyJames/sassy-google-icons
 
+http://www.flaticon.com/packs/
+
 <h3>Fonts</h3>
 
 http://somadesign.ca/demos/better-google-fonts/
