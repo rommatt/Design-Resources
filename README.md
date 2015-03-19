@@ -75,6 +75,10 @@ http://fian.my.id/Waves/
 
 http://www.webdesignrepo.com/
 
+<h3>Mobile</h3>
+
+http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/
+
 <h3>Animation</h3>
 
 http://www.google.com/design/spec/animation
