@@ -83,6 +83,8 @@ http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/
 
 http://www.smashingmagazine.com/2014/02/24/off-the-beaten-canvas-exploring-the-potential-of-the-off-canvas-pattern/
 
+http://www.blonde.net/blog/2015/04/08/ux-starter-guide-converting-ios-android-design
+
 <h3>Animation</h3>
 
 http://www.google.com/design/spec/animation
