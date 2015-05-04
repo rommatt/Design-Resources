@@ -13,6 +13,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+https://uxchecklist.github.io
+
 http://www.ixdchecklist.com
 
 https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
