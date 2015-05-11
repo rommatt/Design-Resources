@@ -9,6 +9,8 @@ http://www.smashingmagazine.com/2014/12/22/the-good-the-bad-and-the-great-exampl
 
 <h3>Material Design</h3>
 
+https://github.com/sachin1092/awesome-material
+
 http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
