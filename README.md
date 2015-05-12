@@ -153,6 +153,10 @@ http://www.smashingmagazine.com/2015/04/22/extending-wordpress-custom-content-ty
 
 http://www.smashingmagazine.com/2015/02/16/using-edge-side-includes-in-varnish/
 
+<h3>Feedback</h3>
+
+http://hunie.co
+
 <h3>LAMP stack</h3>
 
 https://box.scotch.io/
