@@ -15,6 +15,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+http://uxmovement.com/sponsors/hotjar-all-in-one-heatmaps-and-feedback-tool/ // Heat maps
+
 http://www.smashingmagazine.com/2014/10/13/wayfinding-for-the-mobile-web/
 
 https://uxchecklist.github.io
