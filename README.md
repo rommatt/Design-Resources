@@ -193,4 +193,8 @@ http://techpageone.dell.com/demystifying-cloud-ebook/
 
 https://kippt.com/gunjack/
 
+<h3>Email Template design</h3>
+
+http://freshmail.com/developers/best-practices-for-email-coding/
+
 
