@@ -189,6 +189,10 @@ http://www.hugeinc.com/
 
 http://techpageone.dell.com/demystifying-cloud-ebook/
 
+<h3>Work Inspiration</h3>
+
+http://wesbos.com/overwhelmed-with-web-development/
+
 <H3>List/Bookmark sites</h3>
 
 https://kippt.com/gunjack/
