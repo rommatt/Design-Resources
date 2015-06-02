@@ -139,6 +139,8 @@ http://susy.oddbird.net/
 
 <h3>Branding</h3>
 
+http://brand.uber.com/
+
 http://saijogeorge.com/brand-style-guide-examples/
 
 http://speckyboy.com/2015/01/15/inspirational-examples-ui-style-guides/
