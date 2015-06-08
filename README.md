@@ -111,6 +111,10 @@ http://www.blonde.net/blog/2015/04/08/ux-starter-guide-converting-ios-android-de
 
 <h3>Animation</h3>
 
+https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e
+
+http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+
 http://www.google.com/design/spec/animation
 
 https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/
