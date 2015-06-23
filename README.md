@@ -131,6 +131,10 @@ http://somadesign.ca/demos/better-google-fonts/
 
 http://www.fonts.com/web-fonts/google?showGoogleFontsDialog
 
+<h3>Logo Design</h3>
+
+http://www.smashingmagazine.com/2015/06/23/effective-logo-design-geometry/
+
 <h3>Navigation</h3>
 
 http://www.unheap.com/section/drawer-responsive/
