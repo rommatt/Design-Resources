@@ -15,6 +15,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+http://uxmag.com/articles/the-3-most-powerful-heuristics-designers-can-use
+
 https://medium.com/@adlon/threats-of-a-b-tests-and-ux-research-adoption-time-and-incrementalism-991c0c3c61b6
 
 http://uxmovement.com/sponsors/hotjar-all-in-one-heatmaps-and-feedback-tool/ // Heat maps
