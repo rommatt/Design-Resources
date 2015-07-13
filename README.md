@@ -115,6 +115,8 @@ http://www.blonde.net/blog/2015/04/08/ux-starter-guide-converting-ios-android-de
 
 <h3>Animation</h3>
 
+http://codyhouse.co/gem/animated-page-transition-2/
+
 https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e
 
 http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
