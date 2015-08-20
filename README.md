@@ -99,6 +99,10 @@ http://www.webdesignrepo.com/
 
 http://getuikit.com/
 
+<h3>Modular Design</h3>
+
+http://alistapart.com/article/language-of-modular-design
+
 <h3>RWD</h3>
 
 http://bradfrost.github.io/this-is-responsive/
