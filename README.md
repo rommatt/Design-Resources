@@ -201,6 +201,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://www.myplanet.com/
+
 https://www.futurelearn.com/
 
 https://vivaldi.com
