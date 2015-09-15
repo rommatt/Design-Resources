@@ -203,6 +203,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://stripe.com/
+
 https://www.myplanet.com/
 
 https://www.futurelearn.com/
