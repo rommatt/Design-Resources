@@ -121,6 +121,8 @@ http://www.blonde.net/blog/2015/04/08/ux-starter-guide-converting-ios-android-de
 
 <h3>Animation</h3>
 
+http://www.transformicons.com/
+
 http://codyhouse.co/gem/animated-page-transition-2/
 
 https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e
@@ -132,6 +134,8 @@ http://www.google.com/design/spec/animation
 https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/
 
 <h3>Icons</h3>
+
+http://www.transformicons.com/
 
 https://github.com/SmileyJames/sassy-google-icons
 
