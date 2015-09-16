@@ -207,6 +207,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+http://octobercms.com/
+
 https://stripe.com/
 
 https://www.myplanet.com/
