@@ -207,6 +207,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+http://v1.trippeo.com/
+
 http://octobercms.com/
 
 https://stripe.com/
