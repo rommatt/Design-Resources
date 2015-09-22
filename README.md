@@ -9,6 +9,8 @@ http://www.smashingmagazine.com/2014/12/22/the-good-the-bad-and-the-great-exampl
 
 <h3>Material Design</h3>
 
+https://medium.com/materialup-exploring-material-design/why-you-should-look-at-material-design-for-your-next-project-b3416728919f
+
 http://www.materialup.com/
 
 http://www.materialup.com/posts/c/showcase/animation
