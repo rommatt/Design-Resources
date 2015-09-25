@@ -141,6 +141,10 @@ http://www.google.com/design/spec/animation
 
 https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/
 
+<h3>After Effects</h3>
+
+http://www.mtmograph.com/
+
 <h3>Icons</h3>
 
 http://www.transformicons.com/
