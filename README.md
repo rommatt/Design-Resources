@@ -129,6 +129,8 @@ http://www.blonde.net/blog/2015/04/08/ux-starter-guide-converting-ios-android-de
 
 <h3>Animation</h3>
 
+http://www.google.com/design/spec/animation/meaningful-transitions.html
+
 http://www.transformicons.com/
 
 http://codyhouse.co/gem/animated-page-transition-2/
