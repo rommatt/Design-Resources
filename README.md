@@ -9,6 +9,8 @@ http://www.smashingmagazine.com/2014/12/22/the-good-the-bad-and-the-great-exampl
 
 <h3>Material Design</h3>
 
+https://design.google.com/videos/making-material-design/
+
 http://cloudcannon.com/deconstructions/2014/12/05/material-design-delightful-details.html
 
 https://medium.com/materialup-exploring-material-design/why-you-should-look-at-material-design-for-your-next-project-b3416728919f
