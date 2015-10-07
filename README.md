@@ -227,6 +227,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://www.fusetools.com/
+
 https://teamtreehouse.com/code-oregon
 
 http://v1.trippeo.com/
