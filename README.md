@@ -131,6 +131,8 @@ http://www.blonde.net/blog/2015/04/08/ux-starter-guide-converting-ios-android-de
 
 <h3>Animation</h3>
 
+http://zurb.com/playground/motion-ui
+
 http://www.google.com/design/spec/animation/meaningful-transitions.html
 
 http://www.transformicons.com/
