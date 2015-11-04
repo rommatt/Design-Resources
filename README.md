@@ -229,6 +229,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+http://copio.us/work/birchbox/    ////// half screen img I want to use
+
 https://www.fusetools.com/
 
 https://teamtreehouse.com/code-oregon
