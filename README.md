@@ -229,7 +229,7 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
-http://copio.us/work/birchbox/    ////// half screen img I want to use
+http://copio.us/work/birchbox/    ////// half screen img style I want to use
 
 https://www.fusetools.com/
 
