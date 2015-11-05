@@ -25,6 +25,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+https://medium.com/@vinspee/the-nine-states-of-design-5bfe9b3d6d85  /// 9 states of UI design
+
 http://uxmag.com/articles/the-3-most-powerful-heuristics-designers-can-use
 
 https://medium.com/@adlon/threats-of-a-b-tests-and-ux-research-adoption-time-and-incrementalism-991c0c3c61b6
