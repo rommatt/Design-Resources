@@ -83,6 +83,8 @@ http://blog.usabilitytools.com/13-awesome-prototyping-tools-designers/
 
 <h3>UI</h3>
 
+http://tympanus.net/Development/PricingTablesInspiration/
+
 http://www.100daysui.com/
 
 http://sidebar.io/
