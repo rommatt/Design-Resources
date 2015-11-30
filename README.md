@@ -233,6 +233,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+http://new.joshhemsley.com/ ////// product designer / layout options for infocus site
+
 http://thepixelbeard.com/best-web-designs-october-2015/
 
 http://copio.us/work/birchbox/    ////// half screen img style I want to use
