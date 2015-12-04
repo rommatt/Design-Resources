@@ -197,6 +197,8 @@ http://susy.oddbird.net/
 
 <h3>Branding</h3>
 
+https://medium.com/@billskenney/crafting-a-great-branding-delivery-7992990d2548#.tq7cx774c
+
 http://brand.uber.com/
 
 http://saijogeorge.com/brand-style-guide-examples/
