@@ -243,6 +243,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://nucleoapp.com  // half screen
+
 http://tubikstudio.com/works-passfold/
 
 http://www.justinmind.com/free    //// slant
