@@ -25,6 +25,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/
+
 https://24ways.org/
 
 http://www.usability.gov/
