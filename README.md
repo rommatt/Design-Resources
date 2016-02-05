@@ -181,6 +181,8 @@ http://www.flaticon.com/packs/
 
 <h3>Fonts</h3>
 
+https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/
+
 http://somadesign.ca/demos/better-google-fonts/
 
 http://www.fonts.com/web-fonts/google?showGoogleFontsDialog
