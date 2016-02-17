@@ -139,6 +139,8 @@ http://bradfrost.github.io/this-is-responsive/
 
 <h3>Mobile</h3>
 
+http://uipatterns.io/
+
 http://www.mobile-patterns.com/
 
 http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/
