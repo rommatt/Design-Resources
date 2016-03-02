@@ -25,6 +25,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+http://uxstudio.hu/ux-blog/the-two-step-method-to-organize-100s-of-pages-into-a-usable-menu-structure/  // personas / card sorting
+
 https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 
 https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/
