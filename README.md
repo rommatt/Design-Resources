@@ -333,4 +333,8 @@ https://kippt.com/gunjack/
 
 http://freshmail.com/developers/best-practices-for-email-coding/
 
+<h3>Photoshop</h3>
+https://fstoppers.com/post-production/learn-how-fix-color-banding-using-just-one-simple-tool-7946
+/// Get rid of banding in gradients: just do Filter > filter gallery > Spatter. Spatter 100%, smootheness 0%
+
 
