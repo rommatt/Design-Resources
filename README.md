@@ -267,6 +267,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+http://www.gofdn.com/
+
 http://www.designbyroka.com/
 
 https://nucleoapp.com  // half screen
