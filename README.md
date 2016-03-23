@@ -333,6 +333,8 @@ https://kippt.com/gunjack/
 
 <h3>Email Template design</h3>
 
+http://foundation.zurb.com/emails.html
+
 http://freshmail.com/developers/best-practices-for-email-coding/
 
 <h3>Photoshop</h3>
