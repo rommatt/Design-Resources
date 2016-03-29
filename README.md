@@ -343,4 +343,8 @@ https://fstoppers.com/post-production/learn-how-fix-color-banding-using-just-one
 
 https://helpx.adobe.com/photoshop/using/perspective-warp.html  // Perspective warp for skewing images to templates
 
+<h3>Device Templates</h3>
+
+http://designerdada.com/free-iphone-psd-mockups/  -- bunhc of iphone 6 mockups
+
 
