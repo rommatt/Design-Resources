@@ -345,6 +345,6 @@ https://helpx.adobe.com/photoshop/using/perspective-warp.html  // Perspective wa
 
 <h3>Device Templates</h3>
 
-http://designerdada.com/free-iphone-psd-mockups/  -- bunhc of iphone 6 mockups
+http://designerdada.com/free-iphone-psd-mockups/  -- bunch of iphone 6 mockups
 
 
