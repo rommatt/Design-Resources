@@ -267,6 +267,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+http://designerdada.com/creative-404-error-page-with-parallax-effect/ // Article layout
+
 http://www.gofdn.com/
 
 http://www.designbyroka.com/
