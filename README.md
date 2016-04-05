@@ -207,6 +207,8 @@ http://www.unheap.com/section/drawer-responsive/
 
 <h3>Color</h3>
 
+https://www.smashingmagazine.com/2016/04/web-developer-guide-color/
+
 http://www.lolcolors.com/
 
 https://medium.com/helabs-journal/oiling-the-color-wheel-with-jade-sass-5688ceada87c#.4cnbdxswu
