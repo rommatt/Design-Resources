@@ -269,6 +269,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://www.pinterest.com/aaronwalser/  // Good UI/UX examples
+
 http://designerdada.com/creative-404-error-page-with-parallax-effect/ // Article layout
 
 http://www.gofdn.com/
