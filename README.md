@@ -97,6 +97,8 @@ http://blog.usabilitytools.com/13-awesome-prototyping-tools-designers/
 
 <h3>UI</h3>
 
+http://miketricking.github.io/dist/  // Image hover animations
+
 http://littlesnippets.net/some-image-hover-inspiration-with-a-single-bounce-in-icon/
 
 http://tympanus.net/Development/PricingTablesInspiration/
