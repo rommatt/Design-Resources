@@ -211,6 +211,8 @@ http://www.unheap.com/section/drawer-responsive/
 
 <h3>Color</h3>
 
+https://medium.freecodecamp.com/designing-in-color-abd358660a7b#.tfx03pyjv
+
 https://www.smashingmagazine.com/2016/04/web-developer-guide-color/
 
 http://www.lolcolors.com/
