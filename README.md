@@ -263,6 +263,8 @@ http://www.smashingmagazine.com/2015/04/22/extending-wordpress-custom-content-ty
 
 <h3>Optimization</h3>
 
+https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/
+
 http://www.smashingmagazine.com/2015/02/16/using-edge-side-includes-in-varnish/
 
 <h3>Feedback</h3>
