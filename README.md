@@ -25,6 +25,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UX</h3>
 
+https://thedesignteam.io/the-design-process-67df3e8ec68f#.dxzwu0hll
+
 https://medium.com/@order_group/common-mistakes-in-ux-ui-fd314d0b3a9f#.qmgd192cg
 
 http://uxstudio.hu/ux-blog/the-two-step-method-to-organize-100s-of-pages-into-a-usable-menu-structure/  // personas / card sorting
