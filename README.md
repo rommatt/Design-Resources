@@ -23,6 +23,10 @@ https://github.com/sachin1092/awesome-material
 
 http://www.google.com/design/spec/material-design/introduction.html
 
+<h3>Service Design</h3>
+
+http://www.practicalservicedesign.com/service-design-101/
+
 <h3>UX</h3>
 
 http://www.uxbooth.com/articles/the-new-rules-of-form-design/  /// FORM DESIGN
