@@ -293,6 +293,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://stripe.com/
+
 http://milwaukeekayak.com/
 
 https://www.pinterest.com/aaronwalser/  // Good UI/UX examples
