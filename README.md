@@ -29,6 +29,8 @@ http://www.practicalservicedesign.com/service-design-101/
 
 <h3>UX</h3>
 
+https://www.smashingmagazine.com/2016/07/a-deep-dive-into-axure-8-a-comprehensive-review/
+
 http://www.uxbooth.com/articles/the-new-rules-of-form-design/  /// FORM DESIGN
 
 https://thedesignteam.io/the-design-process-67df3e8ec68f#.dxzwu0hll
