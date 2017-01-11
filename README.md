@@ -28,7 +28,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 http://www.practicalservicedesign.com/service-design-101/
 
 <h3>UX</h3>
-
+https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/
 https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6#.u2e7kxwnn
 
 http://blog.invisionapp.com/guide-to-effective-ux-audit/?utm_campaign=Weekly+Digest&utm_source=hs_email&utm_medium=email&utm_content=39812519&_hsenc=p2ANqtz-8ysJtdQyAoIpgx5pnP1WGWfTrjfIBSZpEsvhzpgZxtv6cHY6ktGa7WPvSjq9nASXYl0fuwr0IVLddvt2vh8rWUYHT7hw&_hsmi=39813069  // How to conduct a successful UX Audit
