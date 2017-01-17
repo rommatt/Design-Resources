@@ -29,6 +29,8 @@ http://www.practicalservicedesign.com/service-design-101/
 
 <h3>UX</h3>
 
+https://uxdesign.cc/3-areas-of-focus-if-youre-looking-for-a-job-as-an-associate-ux-designer-in-2017-60e50e196c34#.8ck1ql4sx // Areas of focus in 2017
+
 https://blog.marvelapp.com/user-testing-designers/  // User testing for designers
 
 https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.fd281lgui   /// Accessibility
