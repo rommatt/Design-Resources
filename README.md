@@ -28,7 +28,10 @@ http://www.google.com/design/spec/material-design/introduction.html
 http://www.practicalservicedesign.com/service-design-101/
 
 <h3>UX</h3>
-https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.fd281lgui   /// Accessibility
+
+https://blog.marvelapp.com/user-testing-designers/  // User testing for designers
+
+https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.fd281lgui   /// Accessibility
 
 https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/
 https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6#.u2e7kxwnn
