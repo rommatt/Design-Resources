@@ -23,10 +23,6 @@ https://github.com/sachin1092/awesome-material
 
 http://www.google.com/design/spec/material-design/introduction.html
 
-<h3>Service Design</h3>
-
-http://www.practicalservicedesign.com/service-design-101/
-
 <h3>UI</h3>
 
 https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.5ybvl7hmb
