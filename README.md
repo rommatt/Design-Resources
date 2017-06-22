@@ -141,6 +141,8 @@ http://www.unheap.com/section/drawer-responsive/
 
 <h3>Color</h3>
 
+https://webkul.github.io/coolhue/  //// gradient combos
+
 https://blog.prototypr.io/how-to-use-colors-in-ui-design-16406ec06753#.lhwmkzlqn
 
 https://brightside.me/article/the-ultimate-color-combinations-cheat-sheet-92405/
