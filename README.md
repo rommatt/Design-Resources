@@ -25,6 +25,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UI</h3>
 
+https://twitter.com/i/moments/880688233641848832  // Little UI Details (good tips)
+
 http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/  // Img Lazy load techniques
 
 https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.5ybvl7hmb
