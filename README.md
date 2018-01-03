@@ -215,6 +215,8 @@ https://box.scotch.io/
 
 <h3>Site inspiration</h3>
 
+https://www.hubspot.com/
+
 https://www.reddit.com/r/web_design/comments/6glc6i/best_ridiculously_simple_portfolio_sites/   // minimal sites
 
 https://stripe.com/
