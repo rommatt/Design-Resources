@@ -127,6 +127,8 @@ http://www.flaticon.com/packs/
 
 <h3>Fonts</h3>
 
+https://smartfonts.com/blog/best-fonts-of-2017
+
 https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/
 
 http://somadesign.ca/demos/better-google-fonts/
