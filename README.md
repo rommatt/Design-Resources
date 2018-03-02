@@ -25,6 +25,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 <h3>UI</h3>
 
+https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 // Color / font usage 
+
 https://twitter.com/i/moments/880688233641848832  // Little UI Details (good tips)
 
 http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/  // Img Lazy load techniques
