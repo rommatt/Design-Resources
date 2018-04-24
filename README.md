@@ -199,6 +199,8 @@ https://roots.io/sage/
 
 https://webdesignledger.com/38-sketch3-design-tuts#sthash.AckFi3uM.dpbs
 
+https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9 // Auto layout plugin
+
 <h3>Wordpress</h3>
 
 http://www.smashingmagazine.com/2015/04/22/extending-wordpress-custom-content-types/
