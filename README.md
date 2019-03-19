@@ -117,6 +117,8 @@ http://www.mtmograph.com/
 
 <h3>Icons</h3>
 
+https://material.io/tools/icons/?icon=launch&style=outline
+
 http://ipestov.com/best-free-vector-icon-sets-for-all-of-your-needs/
 
 https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs
