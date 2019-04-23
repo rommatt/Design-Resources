@@ -201,6 +201,8 @@ https://roots.io/sage/
 
 <h3>Sketch</h3>
 
+https://www.smashingmagazine.com/2019/04/sketch-figma-adobe-xd-ui-design-applications/
+
 https://webdesignledger.com/38-sketch3-design-tuts#sthash.AckFi3uM.dpbs
 
 https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9 // Auto layout plugin
